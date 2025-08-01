@@ -24,7 +24,7 @@ git clone https://github.com/seu-usuario/organizador-arquivos.git
 Download Python
 
 3. Execute o script
-Na pasta ou no terminal/cmd/powershell:
+na pasta ou no terminal/cmd/powershell:
 
 Comando para executar no terminal:
 ```bash
