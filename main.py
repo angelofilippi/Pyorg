@@ -16,6 +16,7 @@ locais = {
     "Executáveis": [".exe", ".msi"],
     "Audio": [".mp3", ".ogg", ".wav", ".aac", ".m4a"],
     "Apresentações": [".pptx", ".ppt"],
+    "Apk": [".apk"],
     "Códigos Python": [".py"],
     "Web": [".html", ".css", ".js"],
     "Temporários": [".tmp", ".temp"],
