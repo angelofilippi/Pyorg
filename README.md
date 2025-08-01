@@ -40,7 +40,7 @@ Tkinter (interface para escolher pastas)
 Módulos nativos (os, tkinter.filedialog)
 
 📄 Licença
-Este projeto está sob a licença MIT — sinta-se livre para usar, modificar e distribuir!
+Este projeto está sob a licença MIT — sinta-se livre para usar, modificar!
 
 👨‍💻 Autor
 Feito com 💻 por Ângelo Filippi
