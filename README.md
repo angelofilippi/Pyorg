@@ -19,39 +19,16 @@ Este projeto é uma ferramenta em Python que organiza automaticamente os arquivo
 
 ```bash
 git clone https://github.com/seu-usuario/organizador-arquivos.git
-cd organizador-arquivos
+```
 2. Instale o Python (se ainda não tiver)
 Download Python
 
 3. Execute o script
-No terminal/cmd/powershell:
+Na pasta ou no terminal/cmd/powershell:
 
-bash
-Copiar
-Editar
-python main.py
+Comando para executar no terminal: python main.py
+
 Ao rodar, será aberta uma janela para selecionar a pasta que deseja organizar.
-
-🧠 Exemplo prático
-Se você selecionar uma pasta com arquivos como:
-
-css
-Copiar
-Editar
-documento.docx
-foto.jpeg
-relatorio.pdf
-video.mp4
-O script criará pastas como:
-
-mathematica
-Copiar
-Editar
-📁 Word
-📁 Imagens
-📁 PDFs
-📁 Vídeos
-E moverá os arquivos automaticamente para dentro delas.
 
 🛠️ Tecnologias usadas
 Python 3
@@ -64,7 +41,4 @@ Módulos nativos (os, tkinter.filedialog)
 Este projeto está sob a licença MIT — sinta-se livre para usar, modificar e distribuir!
 
 👨‍💻 Autor
-Feito com 💻 por Ângelo Filippi (AHF Tech Solutions)
-
-👉 LinkedIn
-📧 Email
+Feito com 💻 por Ângelo Filippi
