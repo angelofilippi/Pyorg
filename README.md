@@ -26,8 +26,10 @@ Download Python
 3. Execute o script
 Na pasta ou no terminal/cmd/powershell:
 
-Comando para executar no terminal: python main.py
-
+Comando para executar no terminal:
+```bash
+python main.py
+```
 Ao rodar, será aberta uma janela para selecionar a pasta que deseja organizar.
 
 🛠️ Tecnologias usadas
